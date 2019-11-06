@@ -16,7 +16,7 @@ public class PabloAdivino {
      int n = 0,cont = 0;
        
         int x = (int) (Math.random()*(50-10+1)+10);//guardamos un valor aleatorio entre 10 y 50 
-        System.out.print(x);//este system es para ver el numero guardado en x , quitar las dos barras
+        //System.out.print(x);//este system es para ver el numero guardado en x , quitar las dos barras
        // System.out.print(x);//este system es para ver el numero guardado en x , quitar las dos barras
         // primeras para comprobar
         Scanner sc = new Scanner(System.in);//creamos el objeto sc para utilizar el teclado
