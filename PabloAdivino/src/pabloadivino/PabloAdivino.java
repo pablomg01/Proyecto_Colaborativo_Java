@@ -13,6 +13,8 @@ public class PabloAdivino {
     public static void main(String[] args) {
     //
      int n = 0,cont = 0;
+ 
+        //System.out.print(x);//este system es para ver el numero guardado en x , quitar las dos barras
         int x = (int) (Math.random()*50+10);//guardamos un valor aleatorio entre 10 y 50 no incluido
        // System.out.print(x);//este system es para ver el numero guardado en x , quitar las dos barras
         // primeras para comprobar
